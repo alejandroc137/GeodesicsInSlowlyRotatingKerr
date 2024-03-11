@@ -3,7 +3,11 @@
 
 Are the geodesics of spinning black holes integrable? In Ref [1], we tackled this question for black holes in dynamical Chern--Simons theory through an extensive and comprehensive numerical analysis. In particular, we calculated and studied the Poincaré surfaces of section and rotation numbers for a broad family of geodesics. In that work, we began by considering the geodesics problem of the Kerr spacetime, which we know is integrable. Our numerical analysis confirms this expectation when using the exact Kerr metric, but if one employs a slow-rotation expansion of the Kerr background, then clear chaotic features arise. This Mathematica code shows that, either by solving the Hamilton ([HamiltonianEvolution.nb](HamiltonianEvolution.nb)) or geodesic equations ([GeodesicEvolution.nb](GeodesicEvolution.nb)). 
 
+<center>
+
 ![ZoomWhirlOrbit](ZoomWhirl.png)
+
+</center>
 
 The use of this code in scientific publications must be properly acknowledged. Please cite:
 
@@ -16,5 +20,7 @@ We also request that modifications or extensions leading to a scientific publica
 
 <center> <em>Feel free to use images and movies produced with this code (with attribution) for your next presentation! </em> </center>
 
+<center>
 ![BirkhoffIsland](BirkhoffIsland.png)
+</center>
 	
