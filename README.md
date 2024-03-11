@@ -23,4 +23,3 @@ We also request that modifications or extensions leading to a scientific publica
 <center>
 ![BirkhoffIsland](BirkhoffIsland.png)
 </center>
-	
